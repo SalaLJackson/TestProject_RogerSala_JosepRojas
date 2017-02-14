@@ -14,6 +14,7 @@ int main()
 	cout << "Nando n siguis guei plos xdxd lol";
 	cout << "Tmb he afegit el Ramon xdddddddddddd";
 	cout << "jooooer ara es menjara les linies de codi puta bida tt";
+	cout <<"Visca catalunya, independencia. Nosaltres som sa millor nació del mon i espanya fa puta pena.(Roger)";
     return 0;
 }
 
