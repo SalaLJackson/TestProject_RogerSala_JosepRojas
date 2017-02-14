@@ -12,6 +12,7 @@ int main()
 	cout << " jijijijijijijijijijijijij";
 	cout << "Hola super amics ;)";
 	cout << "Nando n siguis guei plos xdxd lol";
+	cout << "Tmb he afegit el Ramon xdddddddddddd";
     return 0;
 }
 
