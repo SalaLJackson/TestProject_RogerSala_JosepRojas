@@ -13,6 +13,7 @@ int main()
 	cout << "Hola super amics ;)";
 	cout << "Nando n siguis guei plos xdxd lol";
 	cout << "Tmb he afegit el Ramon xdddddddddddd";
+	cout << "jooooer ara es menjara les linies de codi puta bida tt";
     return 0;
 }
 
