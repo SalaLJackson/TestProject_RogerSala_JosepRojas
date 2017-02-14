@@ -10,6 +10,7 @@ int main()
 	cout << "EI KE LU KE PA RUGI";
 	cout << "El penis se m'ha podrit :(";
 	cout << " jijijijijijijijijijijijij";
+	cout << "Hola super amics ;)";
     return 0;
 }
 
