@@ -11,6 +11,7 @@ int main()
 	cout << "El penis se m'ha podrit :(";
 	cout << " jijijijijijijijijijijijij";
 	cout << "Hola super amics ;)";
+	cout << "Nando n siguis guei plos xdxd lol";
     return 0;
 }
 
